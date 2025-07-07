@@ -1,4 +1,4 @@
-# 🔢 7 Segment Display ile Rakam Gösterimi (Sayı: 1)
+# 🔢 7 Segment Display ile Rakam Gösterimi
 
 ## 🔍 Amaç
 Bu projede **7 segment display** kullanılarak Arduino üzerinden belirli rakamların gösterilmesi sağlanmıştır.
