@@ -13,7 +13,7 @@ Ben bu aşamada 1, 7 ve "F" karakterleri üzerinde çeşitli denemeler yaparak l
 - Breadboard
 
 ## 📷 Devre Görseli
-![Potansiyometre Devresi](potansiyometre_led.jpg)
+![Potansiyometre Devresi](7li_gosterge.jpg)
 
 
 ## ⚙️ Devre Bağlantısı
