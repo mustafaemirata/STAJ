@@ -6,6 +6,7 @@ int RST_PIN = 9;
 int SS_PIN = 10;
 int ServoPin = 8;
 
+
 MFRC522 rfid(SS_PIN, RST_PIN);
 Servo motor;
 
@@ -24,7 +25,7 @@ void loop() {
   if (!rfid.PICC_ReadCardSerial()) return;
 
   if (kart()) {
-    Serial.println("Anahtar dogru.");
+    Serial.println("Anahtar dogru!");
     motor.write(180);  
     delay(1000);
     motor.write(0);   
