@@ -13,6 +13,7 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 | 3    | `GUN 3`  | Tanıma sistemleri ve RFID modülü üzerinde çalışma yapıldı.|
 | 4    | `GUN 4`  | Keypad kullanımı, keypad ve servo motor entegresi ve şifre kontrol sistemleri üzerinde projeler yapıldı.|
 | 5    | `GUN 5`  | DC Motor, LCD tasarımlar, sıcaklık sensörleriyle buzzer etkileşimleri ve ultrasonik ses deneyleri yapıldı.|
+| 6    | `GUN 6`  | Lojik elemanlarla devre tasarımları yapıldı. Timers devresi üzerinde çalışıldı.|
 
 
 
