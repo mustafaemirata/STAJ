@@ -10,6 +10,10 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 |------|----------|----------------------------------------------------------------------|
 | 1    | `GUN 1`  | Arduino temel LED, buton, potansiyometre ve 7 segment display uygulamaları |
 | 2    | `GUN 2`  | LCD ekran, servo motor ve buzzer kullanarak çeşitli projeler yapıldı |
+| 3    | `GUN 3`  | Tanıma sistemleri ve RFID modülü üzerinde çalışma yapıldı.|
+| 4    | `GUN 4`  | Keypad kullanımı, keypad ve servo motor entegresi ve şifre kontrol sistemleri üzerinde projeler yapıldı.|
+
+
 
 
 ---
