@@ -15,6 +15,7 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 | 5    | `GUN 5`  | DC Motor, LCD tasarımlar, sıcaklık sensörleriyle buzzer etkileşimleri ve ultrasonik ses deneyleri yapıldı.|
 | 6    | `GUN 6`  | Lojik elemanlarla devre tasarımları yapıldı. Timers devresi üzerinde çalışıldı.|
 | 7    | `GUN 7`  | Flip-Flop çeşitleri hakkında simülasyonlar yapıldı. 7 segment simülasyonları ve timers devrelerinde çalışıldı.|
+| 8    | `GUN 8`  | Logic Analyser tasarlandı. Zamanlayıcı devreleriyle sayıcı sensörleri üzerinde simülasyon denemeleri yapılarak grafikler oluşturuldu.|
 
 
 
