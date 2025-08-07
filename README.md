@@ -16,6 +16,8 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 | 6    | `GUN 6`  | Lojik elemanlarla devre tasarımları yapıldı. Timers devresi üzerinde çalışıldı.|
 | 7    | `GUN 7`  | Flip-Flop çeşitleri hakkında simülasyonlar yapıldı. 7 segment simülasyonları ve timers devrelerinde çalışıldı.|
 | 8    | `GUN 8`  | Logic Analyser tasarlandı. Zamanlayıcı devreleriyle sayıcı sensörleri üzerinde simülasyon denemeleri yapılarak grafikler oluşturuldu.|
+| 9    | `GUN 9`  | Tam toplyaıcı, yarım toplayıcı  çıkarıcılar ve MUX devre şemaları üzerinde çalışmalar yapıldı. |
+
 
 
 
