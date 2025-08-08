@@ -18,6 +18,8 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 | 8    | `GUN 8`  | Logic Analyser tasarlandı. Zamanlayıcı devreleriyle sayıcı sensörleri üzerinde simülasyon denemeleri yapılarak grafikler oluşturuldu.|
 | 9    | `GUN 9`  | Tam toplyaıcı, yarım toplayıcı  çıkarıcılar ve MUX devre şemaları üzerinde çalışmalar yapıldı. |
 |10    | `GUN 10` | 4 bit MUX devreleri oluşturuldu. Encoder ve decoder devreleri simüle edildi . |
+|11    | `GUN 11` | Ortam kurulumları. Temel devre bölücü uygulamaları, frekans grafikleri ve RLC devreleri simüle edildi. |
+
 
 
 
