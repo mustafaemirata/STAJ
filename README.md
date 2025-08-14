@@ -19,6 +19,13 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 | 9    | `GUN 9`  | Tam toplyaıcı, yarım toplayıcı  çıkarıcılar ve MUX devre şemaları üzerinde çalışmalar yapıldı. |
 |10    | `GUN 10` | 4 bit MUX devreleri oluşturuldu. Encoder ve decoder devreleri simüle edildi . |
 |11    | `GUN 11` | Ortam kurulumları. Temel devre bölücü uygulamaları, frekans grafikleri ve RLC devreleri simüle edildi. |
+|12    | `GUN 12` | ALU devresi üzerinde simülasyon çalışması ve durumları incelendi. |
+|13    | `GUN 13` | İstenen "Arduino Denetleyicisindeki Pinler" başlıklı sunum hazırlandı. |
+|14    | `GUN 14` | İstenen "Arduino Led Devresi ve Kod İlişkisi" başlıklı sunum hazırlandı.  |
+|15    | `GUN 15` | Register ve Keyboard tasarım çalışmaları ve durumları simüle edildi. |
+|16    | `GUN 16` | Shift register çalışmaları gerçekleştirildi. |
+
+
 
 
 
