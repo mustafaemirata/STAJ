@@ -27,6 +27,8 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 |17    | `GUN 17` | Kızılötesi kumanda ve kızılötesi kontrol sensörü ile temel bir led kontrol sistemi gerçekleştirildi. |
 |18    | `GUN 18` | Ultrasonik sensör ile mesafe analizi yaparak motor sistemi ile ileri, geri veya sağa sola hareket edebilen robot devre tasarlandı. |
 |19    | `GUN 19` | Dijital clock devresi ile LCD entegresiyle set, up, down fonksiyonlarıyla proje oluşturuldu. |
+|20    | `GUN 20` | Stajın son günü yapılacaklar tamamlandı. |
+
 
 
 
