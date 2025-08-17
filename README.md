@@ -24,6 +24,8 @@ Bu repoda, staj süresince yaptığım tüm Arduino tabanlı donanım ve yazıl�
 |14    | `GUN 14` | İstenen "Arduino Led Devresi ve Kod İlişkisi" başlıklı sunum hazırlandı.  |
 |15    | `GUN 15` | Register ve Keyboard tasarım çalışmaları ve durumları simüle edildi. |
 |16    | `GUN 16` | Shift register çalışmaları gerçekleştirildi. |
+|17    | `GUN 17` | Kızılötesi kumanda ve kızılötesi kontrol sensörü ile temel bir led kontrol sistemi gerçekleştirildi. |
+
 
 
 
